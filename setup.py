@@ -22,7 +22,7 @@ setuptools.setup(
         "lmdb",
         "matplotlib",
         "mdanalysis",
-        "numpy>=1.25,<2.0",
+        "numpy",
         "pandas",
         "pdb-tools",
         "requests",
